@@ -6,12 +6,12 @@
 #include <FirebaseArduino.h>
 
 
-#define FIREBASE_HOST "anka-47045.firebaseio.com"
-#define FIREBASE_AUTH "AgaLsCDESiCcxfZ2NQtBNy78Sv7TECXtJBXa1kMq"
+#define FIREBASE_HOST "******firebaseio.com" //your firebase host name
+#define FIREBASE_AUTH "***************************" //token will be found in firebase setting
 
 
-#define WIFI_SSID "ab17-4534-c815" // Change the name of your WIFI
-#define WIFI_PASSWORD "12345678" // Change the password of your WIFI
+#define WIFI_SSID "************" // Change the name of your WIFI
+#define WIFI_PASSWORD "**********" // Change the password of your WIFI
 
 //"now < 1601490600000"
 //"now < 1601490600000"
